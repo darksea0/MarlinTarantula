@@ -1600,8 +1600,8 @@ xxx */
   #define NOZZLE_CLEAN_TRIANGLES  3
 
   // Specify positions as { X, Y, Z }
-  #define NOZZLE_CLEAN_START_POINT { 3, 159, 10}
-  #define NOZZLE_CLEAN_END_POINT   { 14, 127, 10}
+  #define NOZZLE_CLEAN_START_POINT { 3, 159, 11}
+  #define NOZZLE_CLEAN_END_POINT   { 14, 127, 11}
 
   // Circular pattern radius
   #define NOZZLE_CLEAN_CIRCLE_RADIUS 6.5
