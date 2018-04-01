@@ -1,3 +1,7 @@
+Forked from https://github.com/JimBrown/MarlinTarantula
+
+Just customizing Jim Brown's branch for my own Tevo setup 
+
 ============================================================================
 
 __Configured for MY Tevo Tarantula. It works for me, it may not work for you!__
