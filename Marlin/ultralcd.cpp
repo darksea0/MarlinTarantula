@@ -1760,7 +1760,7 @@ void kill_screen(const char* lcd_msg) {
      */
     static int8_t bed_corner;
     void _lcd_goto_next_corner() {
-      line_to_z(4.0);
+      line_to_z(10.0);
       switch (bed_corner) {
         case 0:
           current_position[X_AXIS] = X_MIN_BED + 10;
