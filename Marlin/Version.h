@@ -35,7 +35,7 @@
   /**
    * Marlin release version identifier
    */
-  #define SHORT_BUILD_VERSION "bugfix-1.1.x"
+  #define SHORT_BUILD_VERSION "dead-bed-temp-1"
 
   /**
    * Verbose version identifier which should contain a reference to the location
